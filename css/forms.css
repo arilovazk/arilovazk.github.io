@@ -10,10 +10,7 @@ body {
 	padding: 0;
 	background-image: url(../img/galaxy.jpg);
 }
-h1 {
-	font-family: 'Averia Libre', cursive;
-}
-legend {
+h1, legend {
 	font-family: 'Dancing Script', cursive;
 }
 .wrapper {
