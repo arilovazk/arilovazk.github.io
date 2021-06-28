@@ -10,8 +10,11 @@ body {
 	padding: 0;
 	background-image: url(../img/galaxy.jpg);
 }
-h1, legend {
+h1 {
 	font-family: 'Averia Libre', cursive;
+}
+legend {
+	font-family: 'Akaya Kanadaka', cursive;
 }
 .wrapper {
 	width: 80%;
